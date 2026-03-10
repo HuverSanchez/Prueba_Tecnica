@@ -37,4 +37,3 @@ Abrir en el navegador como localhost/world_app
 
 1. Iniciar **XAMPP**
 2. Activar **Apache** y **MySQL**
-3. Colocar el proyecto en:
