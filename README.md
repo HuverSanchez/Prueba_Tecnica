@@ -1,4 +1,4 @@
-# Prueba_Tecnia
+# Prueba_Tecnica
 Proyecto desarrollado como prueba técnica
 # Consulta de Ciudades por País
 
